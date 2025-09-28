@@ -71,7 +71,7 @@ Agriculture, FoodTech & Rural Development
   <li>Push notifications using Firebase Cloud Messaging for rain alerts and reminders</li>
   <li>Cloud hosting on AWS or Google Cloud for scalability and reliability</li>
 </ol>
-
+step crop steps
 ![alt text](<Screenshot 2025-09-28 100738.png>)
 
 ## Feasibility and Viability
