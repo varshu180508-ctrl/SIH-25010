@@ -43,16 +43,16 @@ Agriculture, FoodTech & Rural Development
 ## Proposed solution
 <h3>Key Features of ULAVIN PIN ULAGAM</h3>
 <ol>
-  <li>Present-day climate advisory</li>
-  <li>Sowing time suggestions</li>
+  <li>Present day climate advise</li>
+  <li>Sowing time   suggestionns</li>
   <li>Water requirement estimation</li>
   <li>Automated watering reminders</li>
   <li>Pest and disease detection through image analysis.</li>
   <li>Market price tracking for crops.</li>
   <li>Timely rain alerts</li>
-  <li>Natural fertilizer creation steps based on crop type.</li>
-  <li>Voice assistant</li>
-  <li>Multilingual support</li>
+  <li>Natural fertilizer creation s steps based on crop type.</li>
+  <li>Voice assistants.</li>
+  <li>Multilinguaul support</li>
   <li>Crop damage recovery suggestionss.</li>
   <li>Dynamic web pages powered by AI</li>
 </ol>
@@ -61,6 +61,7 @@ Agriculture, FoodTech & Rural Development
 ## Technical Approach
 <h3>Implementation Plan for ULAVIN PIN ULAGAM</h3>
 <ol>
+  <li>step crop steps</li>
   <li>AI integration for smart farming assistant features</li>
   <li>Frontend development using HTML, CSS, and JavaScript</li>
   <li>Multilingual support through Google Translate API</li>
@@ -71,7 +72,7 @@ Agriculture, FoodTech & Rural Development
   <li>Push notifications using Firebase Cloud Messaging for rain alerts and reminders</li>
   <li>Cloud hosting on AWS or Google Cloud for scalability and reliability</li>
 </ol>
-step crop steps
+
 ![alt text](<Screenshot 2025-09-28 100738.png>)
 
 ## Feasibility and Viability
